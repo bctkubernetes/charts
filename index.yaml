@@ -2,8 +2,20 @@ apiVersion: v1
 entries:
   chat-ui:
   - apiVersion: v1
+    appVersion: 0.0.20
+    created: "2023-06-27T15:46:42.219505211Z"
+    description: A Helm chart for Kubernetes
+    digest: 95370e5fc512e93b6af6ed69fd3c129cbc397a0060fc1adbb3d6b5555718908e
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: chat-ui
+    sources:
+    - https://github.com/pvrkubernetes/chat-ui.git
+    urls:
+    - chat-ui-0.0.20.tgz
+    version: 0.0.20
+  - apiVersion: v1
     appVersion: 0.0.19
-    created: "2023-06-21T13:55:15.798221838Z"
+    created: "2023-06-27T15:46:42.218093638Z"
     description: A Helm chart for Kubernetes
     digest: e21561eac0705e80b98879576442d34859f242e497c3451758d68e8dab32dbc6
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -13,4 +25,4 @@ entries:
     urls:
     - chat-ui-0.0.19.tgz
     version: 0.0.19
-generated: "2023-06-21T13:55:15.797006332Z"
+generated: "2023-06-27T15:46:42.215526515Z"
